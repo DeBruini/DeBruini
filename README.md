@@ -1,14 +1,17 @@
-## Olá seja bem vindo 💙
+## Olá seja bem vindo(a) 💙
 
-1- Estou estudando Alura 🤖
+1-Estou estudando Alura 💙
 
-2- Sou aluno do Ensino Médio 👨‍🎓
+2- Sou aluno do Ensino Médio 💙
 
 3- Aluno do Professor Caio 💙
 
-4- Aprendendo como funciona  🥇
+4- Aprendendo como funciona  💙
 
 ## Vivendo e Aprendendo 💙
+
+5- Estudo na escola Orlando Dini 💙
+
 <!--
 **DeBruini/DeBruini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
